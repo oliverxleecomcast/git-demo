@@ -10,4 +10,5 @@ Ice breakers. God save the Marcos!
 
 ## Website Contents
 
+Here are the files in the website:
 1. index.html
